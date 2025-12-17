@@ -1,0 +1,20 @@
+{
+    "name" : "Insta grab",
+    "description" : "Download any user profile pic",
+    "repository" : "https://github.com/mikey177013/Insta-grab",
+    "keywords" : ["instagram" , "telegram" , "telegram bot", "python"],
+    "env" : {
+        "BOT_TOKEN" : {
+            "description" : "your telegram bot token",
+            "value" : ""
+        },
+        "APP_NAME" : {
+            "description" : "your heroku app name",
+            "value" : ""
+        },
+        "TELEGRAM_USERNAME" :{
+            "description" : "your telegram username",
+            "value" : ""
+        }
+    }
+}
